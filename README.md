@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development, App Development, and Content Creation**
 
-- 🌱 Currently learning **Python, Full Stack Development, AI Tools, and Digital Growth**
+- 🌱 Currently learning **C++, Python, Full Stack Development, AI Tools, and Digital Growth**
 
 - 👯 Open to collaborate on **projects that add value to people’s lives**
 
@@ -19,7 +19,7 @@
 
 ### 🌐 Connect with me:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_username)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nanipatel_115?igsh=b2txd2kxYjNoeWQz)  
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@your_channel)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thota-srivardhan-a97657372)
 
