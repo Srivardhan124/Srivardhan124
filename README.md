@@ -1,37 +1,49 @@
-# Hi there 👋 I'm Srivardhan
+<h1 align="center">Hi 👋, I'm Srivardhan</h1>
+<h3 align="center">Web & App Developer | Content Creator | Engineering Student</h3>
 
-Welcome to my GitHub profile! I'm a passionate learner and aspiring developer exploring the world of technology. Whether it's building projects, solving problems, or collaborating on open-source, I'm always excited to learn something new.
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
+- 🔭 I’m currently working on **Web Development, App Development, and Content Creation**
 
-## 🚀 About Me
+- 🌱 Currently learning **Python, Full Stack Development, AI Tools, and Digital Growth**
 
-- 🌱 Currently learning **[Your focus area, e.g., Web Development / Python / Machine Learning]**
-- 🛠️ Interested in **[list interests like App Development, Open Source, etc.]**
-- 📫 How to reach me: [your email or LinkedIn link]
-- ⚡ Fun fact: I love solving challenges and improving every day!
+- 👯 Open to collaborate on **projects that add value to people’s lives**
 
----
+- 💬 Ask me about **Web Development, App Ideas, Content Creation, and Tech Tools**
 
-## 🧰 Languages & Tools
+- 📫 Email: **thotasrivardhan124@gmail.com**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!-- Add more tools/languages as you grow -->
+- 🌍 Languages I speak: **Telugu | English | Hindi**
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Connect with me:
 
-![Srivardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_username)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@your_channel)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thota-srivardhan-a97657372)
 
 ---
 
-## 🔗 Let's Connect
+### 📊 GitHub Stats:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio.com) *(if you have one)*
+![Srivardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srivardhan124&show_icons=true&theme=tokyonight)
 
-Thanks for visiting! 😊
+---
+
+### 💡 Quote for Motivation:
+
+> **"Never stop learning, because life never stops teaching."**
+
+---
+
+### 🚀 My Goals:
+
+- 🔹 Improve my skills in web & app development  
+- 🔹 Create helpful digital products and content  
+- 🔹 Collaborate with developers and creators  
+- 🔹 Keep growing every day  
+
+---
+
+**Thank you for visiting my profile 🙏 Let’s connect, learn, and grow together! 💪**
